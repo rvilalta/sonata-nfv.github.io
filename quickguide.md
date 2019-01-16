@@ -9,6 +9,7 @@ This tutorial doesn´t pretend to be an extend document where to find all the in
 * Installation
   * [SDK](/sdk-installation)
   * [SP](/sp-installation)
+  * [V&V](/v&v-installation)
   * Openstack -> RDO
   * Upload VNF images to Openstack
   
@@ -23,5 +24,9 @@ This tutorial doesn´t pretend to be an extend document where to find all the in
   * [Instantiating and terminating a Network Service](/sp#instantiating-and-terminating-a-network-service)
   * [Service Check](/sp#service-check)
 
+* [V&V Platform](/v&v)
+  * [Prerequisites](/v&v#prerequisites)
+  * [Test example](/v&v#test)
+  
 * **Examples:**
     * [Network Slicing](/slicing)
